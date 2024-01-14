@@ -7,13 +7,3 @@ venue: "Belarusian State Univerisity"
 date: 2021-01-01
 location: "Minsk, Belarus"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

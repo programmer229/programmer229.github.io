@@ -6,7 +6,7 @@ excerpt: 'This research looks at the improvement of VF3 and VF3-light performanc
 date: 2023-10-01
 venue: '16th International Conference on Pattern Recognition and Information Processing'
 paperurl: 'https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf'
-citation: ' D. Dzenhaliou, V. Sarvanov, “Improving efficiency of VF3 and VF3-light algorithms for sparse graphs,” Pattern Recognition and Information Processing (PRIP'2023), 17–19 Oct. 2023, pp. 300– 304. https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf'
+citation: 'D. Dzenhaliou, V. Sarvanov, “Improving efficiency of VF3 and VF3-light algorithms for sparse graphs,” Pattern Recognition and Information Processing (PRIP'2023), 17–19 Oct. 2023, pp. 300– 304. https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf'
 ---
 This research looks at the improvement of VF3 and VF3-light performance on sparse large graphs by using vertex representations such as Node2Vec and Struc2Vec.
 
