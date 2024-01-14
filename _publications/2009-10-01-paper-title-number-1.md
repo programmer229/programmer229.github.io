@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This research looks at the improvement of VF3 and VF3-light performance on sparse large graphs by using vertex representations such as Node2Vec and Struc2Vec.'
 date: 2023-10-01
-venue: '16th International Conference on Pattern Recognition and Information Processing'
+venue: 'Published in 16th International Conference on Pattern Recognition and Information Processing proceedings'
 paperurl: 'https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf'
 citation: 'D. Dzenhaliou, V. Sarvanov, &quot;Improving efficiency of VF3 and VF3-light algorithms for sparse graphs,&quot; Pattern Recognition and Information Processing (PRIP 2023), 17–19 Oct. 2023, pp. 300– 304.'
 ---
