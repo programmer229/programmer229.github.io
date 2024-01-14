@@ -12,4 +12,3 @@ This research looks at the improvement of VF3 and VF3-light performance on spars
 
 [Download paper here](https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf)
 
-Recommended citation:  D. Dzenhaliou, V. Sarvanov, "Improving efficiency of VF3 and VF3-light algorithms for sparse graphs", Pattern Recognition and Information Processing (PRIP 2023), 17–19 Oct. 2023, pp. 300– 304. https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf.

@@ -24,7 +24,7 @@ Work experience
 * Dec. 2022 - Jul.2023: Machine Learning Engineer
   * Yandex Search
   * Built end-to-end NLP ML pipelines for Y.Search and e-commerce.  
-  * Upgraded widely used old models by 5-30. 
+  * Upgraded widely used old models by 5-30%. 
   * Rewrote the pipeline of one of the ranking levels to improve usability and reduce the failure rate. 
   * Worked with BERT and LLMs
 
@@ -40,10 +40,10 @@ Achievments
 ======
 * Huawei Honor cup 2021 3rd place out of 25000 in Code track
 * Gold medal (4th place out of 270) in Northern Eurasia Regional Contests and our team will participate in World Finals
-* University Honor Roll (2022) : 1st student in my faculty(out of 276)
-* Best University Graduate award :  1st graduate in my faculty(out of 276)
+* University Honor Roll (2022) : 1st student in my faculty (out of 276)
+* Best University Graduate award :  1st graduate in my faculty (out of 276)
 * The Dean’s List and the Rector's list - First faculty graduate to recieve the Rector's list
-* Top 0.7% of the Codeforces community(2313 rating)
+* Top 0.7% of the Codeforces community (2313 rating)
 
 Skills
 ======
