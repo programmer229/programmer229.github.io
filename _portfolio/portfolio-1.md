@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Distributed messenger"
+excerpt: "Built a secure distributed messaging app in Python with my team.<br/><img src='/images/image_2021-05-06_18-48-20.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built a secure distributed messaging app in Python with my team. It keeps working even if 30% of the devices are offline. A user can easily send files, texts, videos and photos at a good speed, and everything will be protected with modern encryption

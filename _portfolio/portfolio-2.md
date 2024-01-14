@@ -1,6 +1,6 @@
 ---
 title: "Telegram Bot"
-excerpt: "Telegram bot for car plates recognition<br/><img src='/images/500x300.png'>"
+excerpt: "Telegram bot for car plates recognition<br/><img src='/images/Screenshot_2.png'>"
 collection: portfolio
 ---
 
