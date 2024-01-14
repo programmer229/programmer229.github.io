@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Improving Efficiency Of VF3 And VF3-light Algorithms For Sparse Graphs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This research looks at the improvement of VF3 and VF3-light performance on sparse large graphs by using vertex representations such as Node2Vec and Struc2Vec.'
+date: 2023-10-01
+venue: '16th International Conference on Pattern Recognition and Information Processing'
+paperurl: 'https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf'
+citation: ' D. Dzenhaliou, V. Sarvanov, “Improving efficiency of VF3 and VF3-light algorithms for sparse graphs,” Pattern Recognition and Information Processing (PRIP'2023), 17–19 Oct. 2023, pp. 300– 304. https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This research looks at the improvement of VF3 and VF3-light performance on sparse large graphs by using vertex representations such as Node2Vec and Struc2Vec.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:  D. Dzenhaliou, V. Sarvanov, “Improving efficiency of VF3 and VF3-light algorithms for sparse graphs,” Pattern Recognition and Information Processing (PRIP'2023), 17–19 Oct. 2023, pp. 300– 304. https://prip.by/2023/assets/files/PRIP2023_proceedings.pdf.
