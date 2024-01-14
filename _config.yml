@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Daniil Dzenhaliou"
-description              : &description "personal description"
+description              : &description "Quantitative Researcher at Pinely"
 url                      : https://programmer229.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "programmer229/programmer229.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniil Dzenhaliou"
+  name             : "Daniil Dzenhaliou"s
   avatar           : "profile.png"
-  bio              : "Quantitative Researcher"
+  bio              : "Quantitative Researcher at Pinely"
   location         : "Amsterdam"
   employer         : "Pinely"
   email            :
@@ -94,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "programmer229"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/daniil-dzenhaliou-120257211/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
